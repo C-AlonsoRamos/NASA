@@ -3,7 +3,7 @@ figure{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("../../public/stars.jpg");
+    background-image: url("https://res.cloudinary.com/dy4mossqz/image/upload/v1676306877/img/starts2_dh9y5c.jpg");
     gap: 5rem;
     flex-wrap: wrap;
     padding: 2.2rem;

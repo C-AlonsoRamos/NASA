@@ -11,7 +11,8 @@ function App() {
   const nasaUrl = "https://api.nasa.gov/";
   const keyNasa = "kGMWzI6W2CWAe6nRkcLggmokojwadEEOgJHl77yO";
 
-  const logo = "../public/Nasa.png";
+  const logo =
+    "https://res.cloudinary.com/dy4mossqz/image/upload/v1676306880/img/Nasa_vqf70c.png";
 
   useEffect(() => {
     const getApod = async () => {
